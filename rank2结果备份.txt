@@ -1,0 +1,271 @@
+Forecast_forEachBlock 167  is 9 ,mean is 5.480000 ,real is 9
+预测 偏差是：  0.0
+与平均值的偏差： 0.391111111111
+Forecast_forEachBlock 169  is 3 ,mean is 5.650000 ,real is 6
+预测 偏差是：  0.5
+与平均值的偏差： 0.0583333333333
+Forecast_forEachBlock 170  is 5 ,mean is 6.620000 ,real is 5
+预测 偏差是：  0.0
+与平均值的偏差： 0.324
+Forecast_forEachBlock 171  is 7 ,mean is 8.290000 ,real is 10
+预测 偏差是：  0.3
+与平均值的偏差： 0.171
+Forecast_forEachBlock 186  is 3 ,mean is 4.910000 ,real is 9
+预测 偏差是：  0.666666666667
+与平均值的偏差： 0.454444444444
+Forecast_forEachBlock 187  is 9 ,mean is 11.680000 ,real is 6
+预测 偏差是：  0.5
+与平均值的偏差： 0.946666666667
+Forecast_forEachBlock 188  is 4 ,mean is 6.470000 ,real is 15
+预测 偏差是：  0.733333333333
+与平均值的偏差： 0.568666666667
+Forecast_forEachBlock 189  is 6 ,mean is 9.540000 ,real is 9
+预测 偏差是：  0.333333333333
+与平均值的偏差： 0.06
+Forecast_forEachBlock 190  is 10 ,mean is 6.620000 ,real is 5
+预测 偏差是：  1.0
+与平均值的偏差： 0.324
+Forecast_forEachBlock 191  is 6 ,mean is 9.150000 ,real is 13
+预测 偏差是：  0.538461538462
+与平均值的偏差： 0.296153846154
+Forecast_forEachBlock 192  is 14 ,mean is 10.900000 ,real is 14
+预测 偏差是：  0.0
+与平均值的偏差： 0.221428571429
+Forecast_forEachBlock 193  is 8 ,mean is 9.530000 ,real is 13
+预测 偏差是：  0.384615384615
+与平均值的偏差： 0.266923076923
+Forecast_forEachBlock 205  is 3 ,mean is 4.750000 ,real is 3
+预测 偏差是：  0.0
+与平均值的偏差： 0.583333333333
+Forecast_forEachBlock 206  is 11 ,mean is 7.160000 ,real is 12
+预测 偏差是：  0.0833333333333
+与平均值的偏差： 0.403333333333
+Forecast_forEachBlock 207  is 22 ,mean is 14.590000 ,real is 17
+预测 偏差是：  0.294117647059
+与平均值的偏差： 0.141764705882
+Forecast_forEachBlock 208  is 12 ,mean is 8.580000 ,real is 12
+预测 偏差是：  0.0
+与平均值的偏差： 0.285
+Forecast_forEachBlock 209  is 31 ,mean is 19.520000 ,real is 24
+预测 偏差是：  0.291666666667
+与平均值的偏差： 0.186666666667
+Forecast_forEachBlock 210  is 9 ,mean is 7.580000 ,real is 4
+预测 偏差是：  1.25
+与平均值的偏差： 0.895
+Forecast_forEachBlock 211  is 19 ,mean is 14.750000 ,real is 33
+预测 偏差是：  0.424242424242
+与平均值的偏差： 0.55303030303
+Forecast_forEachBlock 212  is 20 ,mean is 20.580000 ,real is 22
+预测 偏差是：  0.0909090909091
+与平均值的偏差： 0.0645454545455
+Forecast_forEachBlock 213  is 20 ,mean is 15.470000 ,real is 15
+预测 偏差是：  0.333333333333
+与平均值的偏差： 0.0313333333333
+Forecast_forEachBlock 214  is 3 ,mean is 6.200000 ,real is 4
+预测 偏差是：  0.25
+与平均值的偏差： 0.55
+Forecast_forEachBlock 226  is 10 ,mean is 6.460000 ,real is 7
+预测 偏差是：  0.428571428571
+与平均值的偏差： 0.0771428571429
+Forecast_forEachBlock 227  is 10 ,mean is 12.730000 ,real is 12
+预测 偏差是：  0.166666666667
+与平均值的偏差： 0.0608333333333
+Forecast_forEachBlock 228  is 16 ,mean is 13.320000 ,real is 19
+预测 偏差是：  0.157894736842
+与平均值的偏差： 0.298947368421
+Forecast_forEachBlock 229  is 13 ,mean is 13.150000 ,real is 15
+预测 偏差是：  0.133333333333
+与平均值的偏差： 0.123333333333
+Forecast_forEachBlock 230  is 13 ,mean is 9.410000 ,real is 10
+预测 偏差是：  0.3
+与平均值的偏差： 0.059
+Forecast_forEachBlock 231  is 17 ,mean is 18.560000 ,real is 16
+预测 偏差是：  0.0625
+与平均值的偏差： 0.16
+Forecast_forEachBlock 232  is 32 ,mean is 28.730000 ,real is 38
+预测 偏差是：  0.157894736842
+与平均值的偏差： 0.243947368421
+Forecast_forEachBlock 233  is 16 ,mean is 11.470000 ,real is 13
+预测 偏差是：  0.230769230769
+与平均值的偏差： 0.117692307692
+Forecast_forEachBlock 234  is 4 ,mean is 7.260000 ,real is 7
+预测 偏差是：  0.428571428571
+与平均值的偏差： 0.0371428571429
+Forecast_forEachBlock 247  is 13 ,mean is 13.550000 ,real is 10
+预测 偏差是：  0.3
+与平均值的偏差： 0.355
+Forecast_forEachBlock 248  is 9 ,mean is 14.030000 ,real is 7
+预测 偏差是：  0.285714285714
+与平均值的偏差： 1.00428571429
+Forecast_forEachBlock 249  is 13 ,mean is 11.620000 ,real is 17
+预测 偏差是：  0.235294117647
+与平均值的偏差： 0.316470588235
+Forecast_forEachBlock 250  is 21 ,mean is 13.460000 ,real is 14
+预测 偏差是：  0.5
+与平均值的偏差： 0.0385714285714
+Forecast_forEachBlock 251  is 9 ,mean is 13.980000 ,real is 7
+预测 偏差是：  0.285714285714
+与平均值的偏差： 0.997142857143
+Forecast_forEachBlock 252  is 21 ,mean is 17.250000 ,real is 14
+预测 偏差是：  0.5
+与平均值的偏差： 0.232142857143
+Forecast_forEachBlock 253  is 16 ,mean is 12.370000 ,real is 9
+预测 偏差是：  0.777777777778
+与平均值的偏差： 0.374444444444
+Forecast_forEachBlock 267  is 8 ,mean is 4.630000 ,real is 2
+预测 偏差是：  3.0
+与平均值的偏差： 1.315
+Forecast_forEachBlock 268  is 5 ,mean is 7.770000 ,real is 7
+预测 偏差是：  0.285714285714
+与平均值的偏差： 0.11
+Forecast_forEachBlock 269  is 6 ,mean is 8.700000 ,real is 5
+预测 偏差是：  0.2
+与平均值的偏差： 0.74
+Forecast_forEachBlock 270  is 10 ,mean is 10.210000 ,real is 8
+预测 偏差是：  0.25
+与平均值的偏差： 0.27625
+Forecast_forEachBlock 271  is 20 ,mean is 20.080000 ,real is 10
+预测 偏差是：  1.0
+与平均值的偏差： 1.008
+Forecast_forEachBlock 272  is 11 ,mean is 7.920000 ,real is 6
+预测 偏差是：  0.833333333333
+与平均值的偏差： 0.32
+Forecast_forEachBlock 273  is 11 ,mean is 13.950000 ,real is 13
+预测 偏差是：  0.153846153846
+与平均值的偏差： 0.0730769230769
+Forecast_forEachBlock 167  is 9 ,mean is 5.480000 ,real is 9
+预测 偏差是：  0.0
+与平均值的偏差： 0.391111111111
+Forecast_forEachBlock 169  is 3 ,mean is 5.650000 ,real is 6
+预测 偏差是：  0.5
+与平均值的偏差： 0.0583333333333
+Forecast_forEachBlock 170  is 5 ,mean is 6.620000 ,real is 5
+预测 偏差是：  0.0
+与平均值的偏差： 0.324
+Forecast_forEachBlock 171  is 7 ,mean is 8.290000 ,real is 10
+预测 偏差是：  0.3
+与平均值的偏差： 0.171
+Forecast_forEachBlock 186  is 3 ,mean is 4.910000 ,real is 9
+预测 偏差是：  0.666666666667
+与平均值的偏差： 0.454444444444
+Forecast_forEachBlock 187  is 9 ,mean is 11.680000 ,real is 6
+预测 偏差是：  0.5
+与平均值的偏差： 0.946666666667
+Forecast_forEachBlock 188  is 4 ,mean is 6.470000 ,real is 15
+预测 偏差是：  0.733333333333
+与平均值的偏差： 0.568666666667
+Forecast_forEachBlock 189  is 6 ,mean is 9.540000 ,real is 9
+预测 偏差是：  0.333333333333
+与平均值的偏差： 0.06
+Forecast_forEachBlock 190  is 10 ,mean is 6.620000 ,real is 5
+预测 偏差是：  1.0
+与平均值的偏差： 0.324
+Forecast_forEachBlock 191  is 6 ,mean is 9.150000 ,real is 13
+预测 偏差是：  0.538461538462
+与平均值的偏差： 0.296153846154
+Forecast_forEachBlock 192  is 14 ,mean is 10.900000 ,real is 14
+预测 偏差是：  0.0
+与平均值的偏差： 0.221428571429
+Forecast_forEachBlock 193  is 8 ,mean is 9.530000 ,real is 13
+预测 偏差是：  0.384615384615
+与平均值的偏差： 0.266923076923
+Forecast_forEachBlock 205  is 3 ,mean is 4.750000 ,real is 3
+预测 偏差是：  0.0
+与平均值的偏差： 0.583333333333
+Forecast_forEachBlock 206  is 11 ,mean is 7.160000 ,real is 12
+预测 偏差是：  0.0833333333333
+与平均值的偏差： 0.403333333333
+Forecast_forEachBlock 207  is 22 ,mean is 14.590000 ,real is 17
+预测 偏差是：  0.294117647059
+与平均值的偏差： 0.141764705882
+Forecast_forEachBlock 208  is 12 ,mean is 8.580000 ,real is 12
+预测 偏差是：  0.0
+与平均值的偏差： 0.285
+Forecast_forEachBlock 209  is 31 ,mean is 19.520000 ,real is 24
+预测 偏差是：  0.291666666667
+与平均值的偏差： 0.186666666667
+Forecast_forEachBlock 210  is 9 ,mean is 7.580000 ,real is 4
+预测 偏差是：  1.25
+与平均值的偏差： 0.895
+Forecast_forEachBlock 211  is 19 ,mean is 14.750000 ,real is 33
+预测 偏差是：  0.424242424242
+与平均值的偏差： 0.55303030303
+Forecast_forEachBlock 212  is 20 ,mean is 20.580000 ,real is 22
+预测 偏差是：  0.0909090909091
+与平均值的偏差： 0.0645454545455
+Forecast_forEachBlock 213  is 20 ,mean is 15.470000 ,real is 15
+预测 偏差是：  0.333333333333
+与平均值的偏差： 0.0313333333333
+Forecast_forEachBlock 214  is 3 ,mean is 6.200000 ,real is 4
+预测 偏差是：  0.25
+与平均值的偏差： 0.55
+Forecast_forEachBlock 226  is 10 ,mean is 6.460000 ,real is 7
+预测 偏差是：  0.428571428571
+与平均值的偏差： 0.0771428571429
+Forecast_forEachBlock 227  is 10 ,mean is 12.730000 ,real is 12
+预测 偏差是：  0.166666666667
+与平均值的偏差： 0.0608333333333
+Forecast_forEachBlock 228  is 16 ,mean is 13.320000 ,real is 19
+预测 偏差是：  0.157894736842
+与平均值的偏差： 0.298947368421
+Forecast_forEachBlock 229  is 13 ,mean is 13.150000 ,real is 15
+预测 偏差是：  0.133333333333
+与平均值的偏差： 0.123333333333
+Forecast_forEachBlock 230  is 13 ,mean is 9.410000 ,real is 10
+预测 偏差是：  0.3
+与平均值的偏差： 0.059
+Forecast_forEachBlock 231  is 17 ,mean is 18.560000 ,real is 16
+预测 偏差是：  0.0625
+与平均值的偏差： 0.16
+Forecast_forEachBlock 232  is 32 ,mean is 28.730000 ,real is 38
+预测 偏差是：  0.157894736842
+与平均值的偏差： 0.243947368421
+Forecast_forEachBlock 233  is 16 ,mean is 11.470000 ,real is 13
+预测 偏差是：  0.230769230769
+与平均值的偏差： 0.117692307692
+Forecast_forEachBlock 234  is 4 ,mean is 7.260000 ,real is 7
+预测 偏差是：  0.428571428571
+与平均值的偏差： 0.0371428571429
+Forecast_forEachBlock 247  is 13 ,mean is 13.550000 ,real is 10
+预测 偏差是：  0.3
+与平均值的偏差： 0.355
+Forecast_forEachBlock 248  is 9 ,mean is 14.030000 ,real is 7
+预测 偏差是：  0.285714285714
+与平均值的偏差： 1.00428571429
+Forecast_forEachBlock 249  is 13 ,mean is 11.620000 ,real is 17
+预测 偏差是：  0.235294117647
+与平均值的偏差： 0.316470588235
+Forecast_forEachBlock 250  is 21 ,mean is 13.460000 ,real is 14
+预测 偏差是：  0.5
+与平均值的偏差： 0.0385714285714
+Forecast_forEachBlock 251  is 9 ,mean is 13.980000 ,real is 7
+预测 偏差是：  0.285714285714
+与平均值的偏差： 0.997142857143
+Forecast_forEachBlock 252  is 21 ,mean is 17.250000 ,real is 14
+预测 偏差是：  0.5
+与平均值的偏差： 0.232142857143
+Forecast_forEachBlock 253  is 16 ,mean is 12.370000 ,real is 9
+预测 偏差是：  0.777777777778
+与平均值的偏差： 0.374444444444
+Forecast_forEachBlock 267  is 8 ,mean is 4.630000 ,real is 2
+预测 偏差是：  3.0
+与平均值的偏差： 1.315
+Forecast_forEachBlock 268  is 5 ,mean is 7.770000 ,real is 7
+预测 偏差是：  0.285714285714
+与平均值的偏差： 0.11
+Forecast_forEachBlock 269  is 6 ,mean is 8.700000 ,real is 5
+预测 偏差是：  0.2
+与平均值的偏差： 0.74
+Forecast_forEachBlock 270  is 10 ,mean is 10.210000 ,real is 8
+预测 偏差是：  0.25
+与平均值的偏差： 0.27625
+Forecast_forEachBlock 271  is 20 ,mean is 20.080000 ,real is 10
+预测 偏差是：  1.0
+与平均值的偏差： 1.008
+Forecast_forEachBlock 272  is 11 ,mean is 7.920000 ,real is 6
+预测 偏差是：  0.833333333333
+与平均值的偏差： 0.32
+Forecast_forEachBlock 273  is 11 ,mean is 13.950000 ,real is 13
+预测 偏差是：  0.153846153846
+与平均值的偏差： 0.0730769230769
+{267: {'real': 2, 'mean': 4.63, 'fore_error': 3.0, 'mean_error': 1.315, 'forecast': 8.0}, 268: {'real': 7, 'mean': 7.77, 'fore_error': 0.2857142857142857, 'mean_error': 0.10999999999999995, 'forecast': 5.0}, 269: {'real': 5, 'mean': 8.7, 'fore_error': 0.2, 'mean_error': 0.7399999999999999, 'forecast': 6.0}, 270: {'real': 8, 'mean': 10.21, 'fore_error': 0.25, 'mean_error': 0.2762500000000001, 'forecast': 10.0}, 271: {'real': 10, 'mean': 20.08, 'fore_error': 1.0, 'mean_error': 1.0079999999999998, 'forecast': 20.0}, 272: {'real': 6, 'mean': 7.92, 'fore_error': 0.8333333333333334, 'mean_error': 0.32, 'forecast': 11.0}, 273: {'real': 13, 'mean': 13.95, 'fore_error': 0.15384615384615385, 'mean_error': 0.07307692307692303, 'forecast': 11.0}, 167: {'real': 9, 'mean': 5.48, 'fore_error': 0.0, 'mean_error': 0.3911111111111111, 'forecast': 9.0}, 169: {'real': 6, 'mean': 5.65, 'fore_error': 0.5, 'mean_error': 0.05833333333333327, 'forecast': 3.0}, 170: {'real': 5, 'mean': 6.62, 'fore_error': 0.0, 'mean_error': 0.324, 'forecast': 5.0}, 171: {'real': 10, 'mean': 8.29, 'fore_error': 0.3, 'mean_error': 0.1710000000000001, 'forecast': 7.0}, 186: {'real': 9, 'mean': 4.91, 'fore_error': 0.6666666666666666, 'mean_error': 0.45444444444444443, 'forecast': 3.0}, 187: {'real': 6, 'mean': 11.68, 'fore_error': 0.5, 'mean_error': 0.9466666666666667, 'forecast': 9.0}, 188: {'real': 15, 'mean': 6.47, 'fore_error': 0.7333333333333333, 'mean_error': 0.5686666666666668, 'forecast': 4.0}, 189: {'real': 9, 'mean': 9.54, 'fore_error': 0.3333333333333333, 'mean_error': 0.05999999999999991, 'forecast': 6.0}, 190: {'real': 5, 'mean': 6.62, 'fore_error': 1.0, 'mean_error': 0.324, 'forecast': 10.0}, 191: {'real': 13, 'mean': 9.15, 'fore_error': 0.5384615384615384, 'mean_error': 0.2961538461538461, 'forecast': 6.0}, 192: {'real': 14, 'mean': 10.9, 'fore_error': 0.0, 'mean_error': 0.2214285714285714, 'forecast': 14.0}, 193: {'real': 13, 'mean': 9.53, 'fore_error': 0.38461538461538464, 'mean_error': 0.266923076923077, 'forecast': 8.0}, 205: {'real': 3, 'mean': 4.75, 'fore_error': 0.0, 'mean_error': 0.5833333333333334, 'forecast': 3.0}, 206: {'real': 12, 'mean': 7.16, 'fore_error': 0.08333333333333333, 'mean_error': 0.4033333333333333, 'forecast': 11.0}, 207: {'real': 17, 'mean': 14.59, 'fore_error': 0.29411764705882354, 'mean_error': 0.14176470588235296, 'forecast': 22.0}, 208: {'real': 12, 'mean': 8.58, 'fore_error': 0.0, 'mean_error': 0.285, 'forecast': 12.0}, 209: {'real': 24, 'mean': 19.52, 'fore_error': 0.2916666666666667, 'mean_error': 0.18666666666666668, 'forecast': 31.0}, 210: {'real': 4, 'mean': 7.58, 'fore_error': 1.25, 'mean_error': 0.895, 'forecast': 9.0}, 211: {'real': 33, 'mean': 14.75, 'fore_error': 0.42424242424242425, 'mean_error': 0.553030303030303, 'forecast': 19.0}, 212: {'real': 22, 'mean': 20.58, 'fore_error': 0.09090909090909091, 'mean_error': 0.06454545454545463, 'forecast': 20.0}, 213: {'real': 15, 'mean': 15.47, 'fore_error': 0.3333333333333333, 'mean_error': 0.03133333333333337, 'forecast': 20.0}, 214: {'real': 4, 'mean': 6.2, 'fore_error': 0.25, 'mean_error': 0.55, 'forecast': 3.0}, 226: {'real': 7, 'mean': 6.46, 'fore_error': 0.42857142857142855, 'mean_error': 0.07714285714285715, 'forecast': 10.0}, 227: {'real': 12, 'mean': 12.73, 'fore_error': 0.16666666666666666, 'mean_error': 0.06083333333333337, 'forecast': 10.0}, 228: {'real': 19, 'mean': 13.32, 'fore_error': 0.15789473684210525, 'mean_error': 0.29894736842105263, 'forecast': 16.0}, 229: {'real': 15, 'mean': 13.15, 'fore_error': 0.13333333333333333, 'mean_error': 0.12333333333333331, 'forecast': 13.0}, 230: {'real': 10, 'mean': 9.41, 'fore_error': 0.3, 'mean_error': 0.05899999999999998, 'forecast': 13.0}, 231: {'real': 16, 'mean': 18.56, 'fore_error': 0.0625, 'mean_error': 0.15999999999999992, 'forecast': 17.0}, 232: {'real': 38, 'mean': 28.73, 'fore_error': 0.15789473684210525, 'mean_error': 0.2439473684210526, 'forecast': 32.0}, 233: {'real': 13, 'mean': 11.47, 'fore_error': 0.23076923076923078, 'mean_error': 0.11769230769230764, 'forecast': 16.0}, 234: {'real': 7, 'mean': 7.26, 'fore_error': 0.42857142857142855, 'mean_error': 0.03714285714285711, 'forecast': 4.0}, 247: {'real': 10, 'mean': 13.55, 'fore_error': 0.3, 'mean_error': 0.3550000000000001, 'forecast': 13.0}, 248: {'real': 7, 'mean': 14.03, 'fore_error': 0.2857142857142857, 'mean_error': 1.0042857142857142, 'forecast': 9.0}, 249: {'real': 17, 'mean': 11.62, 'fore_error': 0.23529411764705882, 'mean_error': 0.31647058823529417, 'forecast': 13.0}, 250: {'real': 14, 'mean': 13.46, 'fore_error': 0.5, 'mean_error': 0.038571428571428513, 'forecast': 21.0}, 251: {'real': 7, 'mean': 13.98, 'fore_error': 0.2857142857142857, 'mean_error': 0.9971428571428572, 'forecast': 9.0}, 252: {'real': 14, 'mean': 17.25, 'fore_error': 0.5, 'mean_error': 0.23214285714285715, 'forecast': 21.0}, 253: {'real': 9, 'mean': 12.37, 'fore_error': 0.7777777777777778, 'mean_error': 0.37444444444444436, 'forecast': 16.0}}
