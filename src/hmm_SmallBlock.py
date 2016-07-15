@@ -1,10 +1,5 @@
 #-*- encoding: utf-8 -*-
-'''
-Created on 2015-10-26
 
-@author: Administrator
-
-'''
 
 
 #前后向算法加上scale参数

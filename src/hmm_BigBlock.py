@@ -1,9 +1,5 @@
 # -*- encoding: utf-8 -*-
-'''
-Created on 2015.10.14
 
-@author: Administrator
-'''
 import numpy as np
 import scipy.stats
 from log import *

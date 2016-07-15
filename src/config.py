@@ -1,10 +1,5 @@
 #-*- encoding: utf-8 -*-
-'''
-Created on 2015-10-26
 
-@author: Administrator
-
-'''
 import mysql.connector  
 import numpy as np
 import matplotlib.pyplot as plt

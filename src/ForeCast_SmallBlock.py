@@ -1,10 +1,5 @@
 #-*- encoding: utf-8 -*-
-'''
-Created on 2015-10-26
 
-@author: Administrator
-
-'''
 import calculateB_SmallBlock_v1
 from  hmm_SmallBlock import *
 from config import *
